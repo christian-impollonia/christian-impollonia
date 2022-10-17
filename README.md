@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @christian-impollonia
 - 👀 I’m interested in cybersecurity and software engineering
 - 🌱 I’m currently undertaking a Master's in Computing Security at Imperial College London
-- Have a look at some of the projects I have worked on in the past 4 years
+- Have a look at some of the projects I have worked on in the past 4 years!
 - 📫 How to reach me: christian.impollonia@yahoo.it   or    +447765063925
 
 <!---
