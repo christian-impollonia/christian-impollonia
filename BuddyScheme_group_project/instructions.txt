@@ -1,0 +1,13 @@
+We used the free service Heroku to deploy our project.
+
+The deployed version of the software can be found at this link: https://kcl-buddy-scheme.herokuapp.com
+and can be accessed with these credentials:
+
+- system administrator:  | email: 'system_admin1@kcl.ac.uk', password: 'systemAdminPass' |
+- administrator:  | email: 'admin1@.kcl.ac.uk', password: 'adminPass' |
+- scheme coordinator:  | email: 'coordinator1@kcl.ac.uk', password: 'coordinatorPass' |
+- mentor:  | email: 'mentor1@kcl.ac.uk', password: 'mentorPass' |
+- mentee:  | email: 'mentee1@kcl.ac.uk', password: 'menteePass' |
+
+Further details can be found in the README.md file, located in the source code folder.
+
